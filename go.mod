@@ -18,7 +18,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.1.5
 	github.com/chromedp/cdproto v0.0.0-20240426225625-909263490071
 	github.com/chromedp/chromedp v0.9.5
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang/protobuf v1.5.4
@@ -58,8 +58,8 @@ require (
 	google.golang.org/grpc v1.64.1
 	google.golang.org/protobuf v1.34.1
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
-	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/mysql v1.5.7
+	gorm.io/driver/postgres v1.5.9
 	gorm.io/driver/sqlite v1.5.5
 	gorm.io/gorm v1.25.10
 	gvisor.dev/gvisor v0.0.0-20240306221502-ee1e1f6070e3
